@@ -51,9 +51,9 @@ Softwares to be Used:
   - For Picture editing and creating logos
 - UXPIN
   - For creating the wireframe of the website
-- CardFlow (Mac App)
+- MindMeister.com (Mind Mapping)
   - For Brainstorming Ideas, I note down ideas as soon as I think of some good feature that should be added to the website.
 - Github
   - Centralized Version Control System to track my work progress.
-- Mac Terminal
+- Terminal (Mac)
    - To control the local git files and upload them to the Github server online.
